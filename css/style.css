@@ -84,6 +84,15 @@ img{
     transform: translateY(-12px);
     transition: 0.5s ease;
 }
+.menu-bg ul li a.active::after{
+   background-color: #fff;
+   opacity: 1;
+   transform: translateY(-12px);
+   transition: 0.5s ease;
+}
+
+
+
 /* nab css part end  */
 
 
